@@ -1,7 +1,7 @@
 use std::fmt;
 use std::slice::Iter;
 
-#[derive(Copy, Clone, PartialEq)]
+#[derive(Copy, Clone, PartialEq, Eq)]
 enum Field {
     Oval,
     Cross,
