@@ -1,6 +1,31 @@
 # rust-basics
 Basic Rust application for self-education-purposes.
 
+## operations1
+
+One of basics application just to practice Rust.
+
+Location: folder `operations1`
+
+How to run:
+```
+cargo run
+```
+
+## oop1
+
+One of basics application just to practice:
+ - traits,
+ - structs,
+ - providing trait as arg/return value.
+
+Location: folder `oop1`
+
+How to run:
+```
+cargo oop1
+```
+
 ## tictactoe1
 
 One of basics application just to practice Rust.
